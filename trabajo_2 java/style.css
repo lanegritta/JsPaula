@@ -1,0 +1,34 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f85eb8f1;
+}
+
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+  
+  p
+  li {
+    font-size: 39px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #51cedf;
+    text-shadow: 3px 3px 1px rgb(232, 171, 240);
+  }
+  h1  {
+    border: rgb(245, 160, 193) 8px outset;
+  
+  }
+
+
